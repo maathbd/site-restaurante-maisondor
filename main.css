@@ -53,6 +53,12 @@ body {
     text-decoration: none;
 }
 
+.campo-mensagem {
+    resize: vertical;
+    min-height: 120px;
+    max-height: 200px;
+}
+
 @media (max-width: 767px) {
     .carousel-item img{
         height: 280px;
